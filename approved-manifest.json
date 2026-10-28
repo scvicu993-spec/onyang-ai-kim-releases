@@ -1,4 +1,4 @@
 {
-  "payload": "{\"version\":\"5.1.92\",\"sha256\":\"994c0b094bd19ab07eea27075175a05a987179798b1800eba857d007f1ebf1c4\",\"zip_url\":\"https://github.com/scvicu993-spec/onyang-ai-kim-releases/releases/download/v5.1.92/kim-approved.zip\"}",
-  "signature": "hW5UY1oZAWkV8o6cq+7fPNOzOzVcD/HdN5qRcoaYuNdJGL4ivXTgTPfv4qGV6BoPwKz1h0QcjfTWLXirYdjyBw=="
+  "payload": "{\"version\":\"5.1.93\",\"sha256\":\"c7f0c7503a9b71c842a3a899a2bbaf5c615c1449f88a86c53c0c26ed01e39e99\",\"zip_url\":\"https://github.com/scvicu993-spec/onyang-ai-kim-releases/releases/download/v5.1.93/kim-approved.zip\"}",
+  "signature": "AJ5TVEJA707MhXlJ1suc5UUi8HYVF1zXPQl9NGsu4DM0LHEoj20nK5jBgBCLbTfYBQ0hvzVQhz2tieSqBSZKCQ=="
 }
